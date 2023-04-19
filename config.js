@@ -12,7 +12,7 @@ const config = {
       host: "localhost",
       port: 5432,
       database: "usersdb",
-      username: "enahue",
+      username: "postgres",
       password: "root",
       //Extra configs
       define: {
@@ -45,7 +45,7 @@ const config = {
       host: "localhost",
       port: 5432,
       database: "usersdb",
-      username: "enahue",
+      username: "postgres",
       password: "root",
       //Extra configs
       define: {
